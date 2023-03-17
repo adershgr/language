@@ -1,0 +1,15 @@
+.customDiv {
+  width: 100px;
+  height: 50px;
+  display: inline-block;
+  margin: 0.5rem;
+}
+
+.app {
+  padding: 20px;
+
+}
+
+.js{
+  display:flex;
+}
